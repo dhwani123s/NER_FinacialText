@@ -1,6 +1,8 @@
 # NER_FinacialText
 Named Entity Recognition in Financial Text using SpaCy and BERT
 
+<img src = "https://github.com/dhwani123s/Images/blob/main/NLP1.jpeg">
+
 Project Overview:
 
 The project focuses on implementing Named Entity Recognition (NER) for financial text. The objective is to identify and classify entities such as organizations, locations, monetary values, and other relevant entities in financial documents. This is achieved by utilizing both traditional NLP libraries like SpaCy and advanced models like BERT. The project involves preprocessing the text data, training the NER models, and evaluating their performance to ensure accurate entity recognition.
